@@ -29,7 +29,7 @@ Una moderna plataforma de e-commerce desarrollada con PHP y MySQL/MariaDB, dise�
 - **Backend**: PHP 8.1+
 - **Base de Datos**: MySQL 8.0+ / MariaDB 10.6+
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Framework CSS**: Bootstrap 5
+- **Framework CSS**: react/tailwind CSS
 - **Servidor Web**: Apache/Nginx
 - **Gestión de Dependencias**: Composer
 
@@ -183,7 +183,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollador Principal* - [@tuusuario](https://github.com/tuusuario)
+- **Juan José Henao Gutiérrez** - *Desarrollador Principal* - [@DRACKSBOYVEVO](https://github.com/DRACKSBOYVEVO)
 
 ## 🙏 Agradecimientos
 
@@ -194,7 +194,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 ## 📞 Soporte
 
 - 📧 Email: support@vendora.com
-- 💬 Discord: [Servidor de Vendora](link-discord)
+- 💬 Discord: [Servidor de Vendora](https://discord.gg/AG8euD8y)
 - 📖 Wiki: [Documentación completa](https://github.com/tuusuario/vendora/wiki)
 
 ---
