@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vendora.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebda48c91834a4c4f301e8abd9e3e23d5714df13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8295ecfb2e8608e97f209c7cbb6381ec07782cee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vendora.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vendora.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
